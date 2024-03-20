@@ -1,0 +1,14 @@
+C:\Users\csi22-jzarcia\source\repos\ejercicioFichero3\bin\Debug\net6.0\ejercicioFichero3.exe
+C:\Users\csi22-jzarcia\source\repos\ejercicioFichero3\bin\Debug\net6.0\ejercicioFichero3.deps.json
+C:\Users\csi22-jzarcia\source\repos\ejercicioFichero3\bin\Debug\net6.0\ejercicioFichero3.runtimeconfig.json
+C:\Users\csi22-jzarcia\source\repos\ejercicioFichero3\bin\Debug\net6.0\ejercicioFichero3.dll
+C:\Users\csi22-jzarcia\source\repos\ejercicioFichero3\bin\Debug\net6.0\ejercicioFichero3.pdb
+C:\Users\csi22-jzarcia\source\repos\ejercicioFichero3\obj\Debug\net6.0\ejercicioFichero3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\csi22-jzarcia\source\repos\ejercicioFichero3\obj\Debug\net6.0\ejercicioFichero3.AssemblyInfoInputs.cache
+C:\Users\csi22-jzarcia\source\repos\ejercicioFichero3\obj\Debug\net6.0\ejercicioFichero3.AssemblyInfo.cs
+C:\Users\csi22-jzarcia\source\repos\ejercicioFichero3\obj\Debug\net6.0\ejercicioFichero3.csproj.CoreCompileInputs.cache
+C:\Users\csi22-jzarcia\source\repos\ejercicioFichero3\obj\Debug\net6.0\ejercicioFichero3.dll
+C:\Users\csi22-jzarcia\source\repos\ejercicioFichero3\obj\Debug\net6.0\refint\ejercicioFichero3.dll
+C:\Users\csi22-jzarcia\source\repos\ejercicioFichero3\obj\Debug\net6.0\ejercicioFichero3.pdb
+C:\Users\csi22-jzarcia\source\repos\ejercicioFichero3\obj\Debug\net6.0\ejercicioFichero3.genruntimeconfig.cache
+C:\Users\csi22-jzarcia\source\repos\ejercicioFichero3\obj\Debug\net6.0\ref\ejercicioFichero3.dll
